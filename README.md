@@ -23,4 +23,3 @@ O Ezio é um assistente pessoal inteligente que integra software desktop e hardw
 - **APIs:** Google Gemini AI, Open-Meteo, Windows Native APIs
 
 ## 📸 Screenshots
-*(Coloque uma foto do seu relógio e um print do terminal aqui)*
